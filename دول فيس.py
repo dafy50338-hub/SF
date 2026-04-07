@@ -65,14 +65,14 @@ print('')
 print('')
 print()
 print()
-zombie ='\x1b[1;33m\x1b[1;36m\33[0;41m[@oio_r7x]\033[0;92m\x1b[1;33m\x1b[1;32m'
+zombie ='\x1b[1;33m\x1b[1;36m\33[0;41m[ @SF7SF0 ]\033[0;92m\x1b[1;33m\x1b[1;32m'
 for char in zombie:
     stdout.write(char)
     stdout.flush()
     sleep(0.01)
 print()
 print()
-webbrowser.open('https://t.me/oio_r7x')
+webbrowser.open('https://t.me/DEW_Pess')
 print('')
 import os
 try:
@@ -452,12 +452,12 @@ class Main:
 		self.loop = 0
 		os.system("clear")
 		print('')
-		print( ''' @oio_r7 ''')
+		print( ''' @SF7SF0 ''')
 		print('')
 		print(Z1+"""    print(f'''
-{O} شرياـٱن السسرحاـٱن 
+{O} SF
 A. H. Alarany ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
-                    AHMAD711
+                    @SF7SF0
 
              {F}━━━━━━━━━━━━━━━━━━━━━━{f}
                     [🇸🇦]السعودية
@@ -517,7 +517,7 @@ A. H. Alarany ━━━━━━━━━━━━━━━━━━━━━━
 {O}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                                              
 ''' اختار دولتك '""")
         
-		print(" شِريِِاـَِٱن السسًِٰࢪحُاِنَ ")
+		print(" SF ")
 		syed = input(PP+"""' """+F1);os.system('clear')
 		if syed in ["", ""]:
 			exit()
@@ -555,7 +555,7 @@ A. H. Alarany ━━━━━━━━━━━━━━━━━━━━━━
 			os.system('xdg-open https://www.facebook.com/Nahid.Tera.papa.I.c.s.f?mibextid=ZbWKwL')
 			os.system('clear')
 			print(logo) 
-			print("\033[1;97m ID \033[2;32mشرياـٱن السسرحاـٱن \033[1;97m➪ \033[2;32m%s"%(len(self.id))) 
+			print("\033[1;97m ID \033[2;32m]   SF     \33[1;97m➪ \033[2;32m%s"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
 				print("\n \033[2;32mTYPE : \033[1;97mfirst123,first1234,123456789,1234567,123456")
 				print('')
@@ -571,7 +571,7 @@ A. H. Alarany ━━━━━━━━━━━━━━━━━━━━━━
  
 	def api(self, uid, pwx):
 		ua = random.choice(ugen)
-		sys.stdout.write("\r\r%s\033[1;97m {\033[2;32m \033[1;97m{\033[2;32 @oio_r7 \033[1;97m }\033[1;31m{ %s/%s \033[1;31m}\033[1;97m{ شغال }\033[2;32m{ %s }\033[1;97m{ سيڪور }\033[1;31m{ %s }"%(B,self.loop, len(self.id), len(self.cp), len(self.ok))
+		sys.stdout.write("\r\r%s\033[1;97m {\033[2;32m \033[1;97m{\033[2;32 @SF7SF0 \033[1;97m }\033[1;31m{ %s/%s \033[1;31m}\033[1;97m{ شغال }\033[2;32m{ %s }\033[1;97m{ سيڪور }\033[1;31m{ %s }"%(B,self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -595,7 +595,7 @@ A. H. Alarany ━━━━━━━━━━━━━━━━━━━━━━
 
 𝗣𝗔𝗦𝗦𝗣𝗢𝗥𝗧 : {pw} 
 
-𝗔𝗟𝗦𝗥𝗛𝗔𝗡: @oio_r7 / شرياـٱن 
+𝗔𝗟𝗦𝗥𝗛𝗔𝗡: @SF7SF0 / SF
 
 ''')
 
@@ -615,7 +615,7 @@ A. H. Alarany ━━━━━━━━━━━━━━━━━━━━━━
 
 𝗣𝗔𝗦𝗦𝗣𝗢𝗥𝗧 : {pw} 
 
-𝗔𝗟𝗦𝗥𝗛𝗔𝗡 : @oio_r7 / شرياـٱن 
+𝗔𝗟𝗦𝗥𝗛𝗔𝗡 : @SF7SF0 / SF 
 
 
  
