@@ -5,7 +5,7 @@ M = '\x1b[1;31m'  # تغيير إلى أحمر
 from datetime import datetime
 
 fc = "/storage/emulated/0/"  
-Ahmed = datetime(2026, 3, 27, 12, 0, 0)
+Ahmed = datetime(2026, 9, 27, 12, 0, 0)
 
 files = [(f, os.path.getmtime(os.path.join(fc, f))) for f in os.listdir(fc) if os.path.isfile(os.path.join(fc, f))]
 La, Timr = max(files, key=lambda x: x[1])
